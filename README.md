@@ -1,4 +1,4 @@
-<h1>Hi 👋, I’m Vidushi Jain, a third-year CSE student focused on React and frontend development, with growing exposure to full-stack applications, and looking for real-world development opportunities.</h1>
+<h1>Hi 👋, I’m Vidushi Jain, a third-year CSE student focused on frontend development, with growing exposure to full-stack applications, and looking for real-world development opportunities.</h1>
 <p> frontend developer from Indore</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
