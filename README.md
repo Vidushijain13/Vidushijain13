@@ -1,28 +1,54 @@
-<h1>Hi 👋, I’m Vidushi Jain, a third-year CSE student focused on frontend development, with growing exposure to full-stack applications, and looking for real-world development opportunities.</h1>
-<p> frontend developer from Indore</p>
+<h1 align="center">Hi, I'm Vidushi Jain</h1>
 
-<h2>🚀 Languages and Tools I Use</h2>
-<p>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<h3 align="center">
+Frontend Developer | CSE Student | Building Real-World Projects
+</h3>
+
+<p align="center">
+Focused on frontend development with growing full-stack exposure. I build responsive, performance-driven web applications and actively look for real-world opportunities.
 </p>
 
-<h2>⚡️ Where to find me</h2>
-<p>
-<a target="_blank" href="https://www.linkedin.com/in/vidushi-jain-b95bb028b" style="display: inline-block;">
-  <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
-</a>
+---
 
-<a href="mailto:vidushi2005jain@gmail.com" style="display: inline-block;">
-  <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-</a>
+<h2>🚀 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,html,css,kotlin,firebase,figma,git" />
+</p>
+
+---
+
+<h2>📌 Featured Project</h2>
+
+<h3>🔹 SwiftSolve AI Platform</h3>
+
+<p>
+A conversion-focused AI agency platform built during my internship. Designed to deliver high performance, clean UI, and real-world usability.
+</p>
+
+<p>
+👉 <b>Live Demo:</b> https://your-vercel-link <br>
+👉 <b>GitHub Repo:</b> https://github.com/your-repo
+</p>
+
+<h4>⚡ Key Highlights:</h4>
+
+<ul>
+  <li>Responsive and modern UI using React</li>
+  <li>Optimized performance and loading speed</li>
+  <li>Clean and scalable component structure</li>
+  <li>Built with real-world product mindset</li>
+</ul>
+
+---
+
+<h2>⚡ Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vidushi-jain-b95bb028b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:vidushi2005jain@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
