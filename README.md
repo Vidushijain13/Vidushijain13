@@ -29,7 +29,7 @@ A conversion-focused AI agency platform built during my internship. Designed to 
 <p>
 👉 <b>Live Demo:</b> https://swiftsolve-ai-platform.vercel.app/
  <br>
-👉 <b>GitHub Repo:</b> https://github.com/your-repo
+👉 <b>GitHub Repo:</b> https://github.com/Vidushijain13/Swiftsolve-AI-Platform
 </p>
 
 <h4>⚡ Key Highlights:</h4>
