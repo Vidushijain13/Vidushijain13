@@ -1,11 +1,22 @@
-<h1 align="center">Hi, I'm Vidushi Jain</h1>
+<h1 align="center">
+  <span style="color:#0A66C2;">Vidushi Jain</span>
+</h1>
 
 <h3 align="center">
-Frontend Developer | CSE Student | Building Real-World Projects
+Frontend Developer | CSE Student | Internship Experience
 </h3>
 
 <p align="center">
 Focused on frontend development with growing full-stack exposure. I build responsive, performance-driven web applications and actively look for real-world opportunities.
+</p>
+
+---
+
+<h2>💼 Experience</h2>
+
+<p>
+🔹 <b>Frontend Developer Intern</b><br>
+Worked on real-world web applications with a focus on performance, responsiveness, and scalable UI development.
 </p>
 
 ---
@@ -18,27 +29,12 @@ Focused on frontend development with growing full-stack exposure. I build respon
 
 ---
 
-<h2>📌 Featured Project</h2>
-
-<h3>🔹 SwiftSolve AI Platform</h3>
-
-<p>
-A conversion-focused AI agency platform built during my internship. Designed to deliver high performance, clean UI, and real-world usability.
-</p>
-
-<p>
-👉 <b>Live Demo:</b> https://swiftsolve-ai-platform.vercel.app/
- <br>
-👉 <b>GitHub Repo:</b> https://github.com/Vidushijain13/Swiftsolve-AI-Platform
-</p>
-
-<h4>⚡ Key Highlights:</h4>
+<h2>📍 Current Focus</h2>
 
 <ul>
-  <li>Responsive and modern UI using React</li>
-  <li>Optimized performance and loading speed</li>
-  <li>Clean and scalable component structure</li>
-  <li>Built with real-world product mindset</li>
+  <li>Improving frontend development skills (React, performance, patterns)</li>
+  <li>Building real-world, production-level projects</li>
+  <li>Strengthening DSA consistency</li>
 </ul>
 
 ---
